@@ -1,0 +1,2 @@
+# CE706---Information-Retrieval
+Apply your IR skills to build a processing pipeline that turns a Web site into structured knowledge (thus enhancing your chances of getting the job outlined above). Your system should take HTML pages as input, hts://careers.microsoft.com/us/en/job/580012/Software-Engineer process them using the kind of techniques that we have been looking at in the module, and output an index of terms identified in the documents
